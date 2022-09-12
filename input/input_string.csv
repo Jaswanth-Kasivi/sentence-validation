@@ -1,0 +1,12 @@
+Sentence_data,is_valid
+"The quick brown fox said ""hello Mr lazy dog"".",TRUE
+The quick brown fox said hello Mr lazy dog.,TRUE
+"One lazy dog is too few, 122 is too many.",TRUE
+"One lazy dog is too few, thirteen is too many.",TRUE
+"How many ""lazy dogs"" are there?",TRUE
+"The quick brown fox said ""hello Mr. lazy dog""",FALSE
+"the quick brown fox said ""hello Mr lazy dog""",FALSE
+"""The quick brown fox said ""hello Mr lazy dog. """,FALSE
+"One lazy dog is too few, 12 is too many",FALSE
+"Are there 11, 12, or 13 lazy dogs?",FALSE
+There is no punctuation in this sentence,FALSE
